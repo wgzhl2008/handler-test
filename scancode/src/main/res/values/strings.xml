@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">二维码</string>
+    <string name="hello">hello world</string>
+    <string name="noresult">目前没有扫描结果</string>
+    <string name="message">购物小参考</string>
+    <string name="scan">点击开始扫描...</string>
+</resources>
