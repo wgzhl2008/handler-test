@@ -41,6 +41,7 @@ public class MainActivity extends Activity {
         public void run() {
             System.out.println("update thread");
             handler.postDelayed(updateThread,3*1000);
+            System.out.println();
         }
     };
 }
